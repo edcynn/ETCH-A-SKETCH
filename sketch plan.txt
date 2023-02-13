@@ -1,0 +1,7 @@
+divtiles color default will be white
+default color of main div/ sketchpad is the picked color
+once the divtiles are clicked, their color should become fully transparent to show the picked color of the main div
+
+
+ctx.moveTo(column,row)/ (x,y)
+ctx.lineTo(colum,length)/(x,length)
